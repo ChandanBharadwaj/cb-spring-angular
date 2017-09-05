@@ -1,0 +1,67 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+cb-sample-angular-ui/dist
+cb-sample-angular-ui/tmp
+cb-sample-angular-ui/out-tsc
+
+# dependencies
+cb-sample-angular-ui/node_modules
+
+# IDEs and editors
+cb-sample-angular-ui/.idea
+cb-sample-angular-ui/.project
+cb-sample-angular-ui/.classpath
+cb-sample-angular-ui/.c9/
+cb-sample-angular-ui/*.launch
+cb-sample-angular-ui/.settings/
+cb-sample-angular-ui/*.sublime-workspace
+
+# IDE - VSCode
+cb-sample-angular-ui/.vscode/*
+cb-sample-angular-ui/!.vscode/settings.json
+cb-sample-angular-ui/!.vscode/tasks.json
+cb-sample-angular-ui/!.vscode/launch.json
+cb-sample-angular-ui/!.vscode/extensions.json
+
+# misc
+cb-sample-angular-ui/.sass-cache
+cb-sample-angular-ui/connect.lock
+cb-sample-angular-ui/coverage
+cb-sample-angular-ui//libpeerconnection.log
+cb-sample-angular-ui/npm-debug.log
+cb-sample-angular-ui/testem.log
+cb-sample-angular-ui/typings
+
+# e2e
+cb-sample-angular-ui/e2e/*.js
+cb-sample-angular-ui/e2e/*.map
+
+# System Files
+cb-sample-angular-ui/.DS_Store
+cb-sample-angular-ui/Thumbs.db
